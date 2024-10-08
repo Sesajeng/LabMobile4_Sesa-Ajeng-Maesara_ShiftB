@@ -1,20 +1,27 @@
 <<<<<<< HEAD
-# LabMobile4_Sesa-Ajeng-Maesara_ShiftB
+# LabMobile5_Sesa-Ajeng-Maesara_ShiftB
 =======
 # tokokita
 
-A new Flutter project.
+Registrasi
+![Halaman Registrasi](registrasi_berhasil.png)
 
-## Getting Started
+Login
+![Halaman Login](login_gagal.png)
 
-This project is a starting point for a Flutter application.
+Produk
+![Halaman List_Produk](list_produk.png)
 
-A few resources to get you started if this is your first Flutter project:
+Tambah Produk
+![Halaman Tambah_Produk](tambah_produk_sebelum.png)
+![Halaman Tambah_Produk](tambah_produk_setelah.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Edit Produk
+![Halaman Edit_Produk](ubah_produk_sebelum.png)
+![Halaman Edit_Produk](ubah_produk_setelah.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 8f64646 (Finish)
+Hapus Produk
+![Halaman Hapus_Produk](hapus_sebelum.png)
+![Halaman Hapus_Produk](hapus_sesudah.png)
+
+
